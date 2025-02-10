@@ -1,0 +1,49 @@
+{
+  "modules": [
+    {
+      "name": "Module 5: Discussing ideas and solutions",
+      "guid": "da496803-4b19-4571-bed7-851e890d315a",
+      "topics" : [
+        {
+          "name": "Suggesting solutions and giving arguments",
+          "guid": "5a2a903a-f4ad-4162-899f-de3ac7ad8956",
+          "phrases": [
+            {"guid": "09e922ac-c974-4476-a98c-73d2f0c86ddd", "context": "Acknowledging another point of view", "en": "I see what you mean.", "ru": "Я понимаю, что вы имеете в виду."},
+            {"guid": "94674771-e399-4da5-81cc-3bc4b91220a7", "context": "Acknowledging another point of view", "en": "I see what you’re saying.", "ru": "Я понимаю, о чём вы говорите."},
+            {"guid": "8be31682-b2cf-4912-809e-27923733d44e", "context": "Making a suggestion", "en": "I would suggest [verb+ing]", "ru": "Я бы предложил(а) [глагол+ing]"},
+            {"guid": "86463261-a7cc-452e-bbcc-0b206ed77ec8", "context": "Making a suggestion", "en": "What we could do is [verb]", "ru": "Что мы могли бы сделать, так это [глагол]"},
+            {"guid": "d3d02c37-a419-44ad-a3c3-a6088860c9a9", "context": "Mentioning an advantage or disadvantage", "en": "One really (good/great) thing about … is that …", "ru": "Одна действительно (хорошая/отличная) вещь в … заключается в том, что …"},
+            {"guid": "d5fdb34c-5d21-49c8-81f8-f3ac9d2af602", "context": "Mentioning an advantage or disadvantage", "en": "(It’ll allow you to …) And what this gives (you/us) is …", "ru": "(Это позволит вам …) И что это даёт (вам/нам) – это …"},
+            {"guid": "e351c149-347d-431d-87ac-336b8b7914b9", "context": "Mentioning an advantage or disadvantage", "en": "And not only that, …", "ru": "И не только это, …"},
+            {"guid": "43a15fb3-c357-41cf-b286-2cfcb2482e89", "context": "Mentioning an advantage or disadvantage", "en": "The downside (of …) is that …", "ru": "Недостаток (чего-то) заключается в том, что …"},
+            {"guid": "82f7dd3c-3e52-4b71-a196-b65c8fb404a1", "context": "Mentioning an advantage or disadvantage", "en": "One of the limitations (of …) is that …", "ru": "Одно из ограничений (чего-то) заключается в том, что …"},
+            {"guid": "74309136-bf54-454c-9bbd-546ff6276cc6", "context": "Expressing certainty", "en": "I’m sure that you will see the benefits of [this].", "ru": "Я уверен(а), что вы увидите преимущества [этого]."},
+            {"guid": "a381c5b1-b8b6-4cd0-86c8-3b8ef70788cd", "context": "Expressing certainty", "en": "… is a tried and tested [practice/technique/method/approach].", "ru": "… – это проверенная и надёжная [практика/техника/метод/подход]."}
+          ]
+        },
+        {"name": "Writing a meeting follow-up",
+         "guid": "75ff357c-ca93-4f2f-b331-21c5adc276a4",
+         "phrases": [
+            {"guid": "79f943d3-7fe8-40e8-84df-7fba53bcf904", "context": "Greeting", "en": "Dear [name], / Dear all,", "ru": "Дорогой(ая) [имя], / Дорогие все,"},
+            {"guid": "88fdabad-9d0c-4f92-a5f4-0a0c07ff0f14", "context": "Greeting", "en": "Hello/Hi [name],", "ru": "Здравствуйте/Привет, [имя],"},
+            {"guid": "a10ac8f2-7a91-45b8-b085-3283b086febf", "context": "Greeting", "en": "Hello/Hi everyone,", "ru": "Здравствуйте/Привет, все,"},
+            {"guid": "bdcd2936-e81e-405c-be77-9f6009c04226", "context": "Showing appreciation", "en": "Thank you for taking the time to [meet and discuss the …]", "ru": "Спасибо, что нашли время [встретиться и обсудить …]"},
+            {"guid": "4642c194-396a-4ec6-ba42-5da35967c29d", "context": "Showing appreciation", "en": "Thank you for attending the [demo]", "ru": "Спасибо за участие в [демонстрации]"},
+            {"guid": "cdf0a52c-f387-420c-8c88-ef56c22e7cce", "context": "Showing appreciation", "en": "Thanks for the meeting.", "ru": "Спасибо за встречу."},
+            {"guid": "20fb8bc3-93b1-488d-bd72-8e58a9eccf09", "context": "Summarizing and outlining action points", "en": "Here’s a (quick) recap of what we talked about.", "ru": "Вот (краткое) резюме того, о чём мы говорили."},
+            {"guid": "e7cc972a-5196-42c9-94ac-6f81813fbe1c", "context": "Summarizing and outlining action points", "en": "Below is a summary of the action items and next steps.", "ru": "Ниже приведён список действий и следующие шаги."},
+            {"guid": "d14381c4-07b7-4e62-a8d8-999a5fe4b888", "context": "Summarizing and outlining action points", "en": "Following up on our conversation, I’d like to sum up the key points discussed today.", "ru": "В продолжение нашего разговора я хотел(а) бы подвести итоги обсуждённых сегодня ключевых моментов."},
+            {"guid": "bea3b180-32a1-4fe8-9ae9-d5813ed96e8e", "context": "Mentioning extra materials", "en": "I’ve attached [the file you asked for].", "ru": "Я прикрепил(а) [файл, который вы запрашивали]."},
+            {"guid": "7ac478af-5698-4fb5-881f-d0feb054ac7f", "context": "Mentioning extra materials", "en": "Here is a link to [the meeting recording].", "ru": "Вот ссылка на [запись встречи]."},
+            {"guid": "678ff53b-c58e-4968-a4e1-baee6f4b3361", "context": "Closing", "en": "(Please) feel free to reach out with any questions or concerns.", "ru": "(Пожалуйста,) не стесняйтесь обращаться с любыми вопросами или сомнениями."},
+            {"guid": "b48696e0-ee7b-4df2-ba67-71380e3733f0", "context": "Closing", "en": "(Please) let me know if you have any questions or there is anything I’ve missed.", "ru": "(Пожалуйста,) дайте мне знать, если у вас есть вопросы или я что-то упустил(а)."},
+            {"guid": "4dd1c6cc-b156-4f05-b83f-bb038811eddc", "context": "Closing", "en": "Looking forward to talking to you [next Monday].", "ru": "С нетерпением жду разговора с вами [в следующий понедельник]."},
+            {"guid": "da2fd3b4-9009-4873-bfbe-3e83b4cb4118", "context": "Signing off", "en": "Best / Kind regards,", "ru": "С наилучшими пожеланиями,"},
+            {"guid": "11d3c6de-f9fd-4a16-9949-5754308e91ad", "context": "Signing off", "en": "Best,", "ru": "С уважением,"}
+          ]
+        }
+     ]
+   }
+  ]
+}
+  
