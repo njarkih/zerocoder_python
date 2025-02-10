@@ -195,7 +195,7 @@ def get_translation_button(phrase, language):
 def handle_stop(call):
     user_id = call.message.chat.id
     bot.send_message(user_id, "Чтобы продолжить, нажми кнопку 'Модули' для просмотра списка тем.",
-                     reply_markup=telebot.types.ReplyKeyboardRemove())
+                     reply_markup=get_modules_button())
 
  # Обработчик запроса перевода
 @bot.callback_query_handler(func=lambda call: call.data.startswith('translate_'))
